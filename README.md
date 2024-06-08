@@ -1,4 +1,4 @@
-<h1> Youtube Clone</h1>
+<h1> Netflix Clone</h1>
 
 This is a clone project where users can browse movies by category and see the details of the movie they click on.
 
